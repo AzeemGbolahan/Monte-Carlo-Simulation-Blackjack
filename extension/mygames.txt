@@ -1,0 +1,14 @@
+Initial Game State:
+Player's Hand: [11, 4] (Total: 15)
+Dealer's Hand: [5, 6] (Total: 11)
+
+
+After Player's Turn:
+Player's Hand: [11, 4, 2] (Total: 17)
+Dealer's Hand: [5, 6] (Total: 11)
+
+
+After Dealer's Turn:
+Player's Hand: [11, 4, 2] (Total: 17)
+Dealer's Hand: [5, 6, 3, 10] (Total: 24)
+
