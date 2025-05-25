@@ -36,7 +36,6 @@ src/
 ├── Hand.java           # Contains logic for calculating hand values
 ├── Blackjack.java      # Implements the rules and flow of a Blackjack round
 ├── Simulation.java     # Runs the Monte Carlo simulation
-├── Shuffle.java        # Utility for shuffling cards
 ├── ArrayList.java      # Custom ArrayList implementation
 ├── mygames.txt         # Stores game outcomes
 ├── *Tests.java         # JUnit test classes for all components
