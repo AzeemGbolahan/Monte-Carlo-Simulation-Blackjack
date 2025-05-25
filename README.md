@@ -41,6 +41,19 @@ src/
 ├── *Tests.java         # JUnit test classes for all components
 ```
 
+```
+extension/
+├── Card.java           # Represents an individual playing card
+├── Deck.java           # Manages and shuffles a deck of cards
+├── Hand.java           # Contains logic for calculating hand values
+├── Blackjack.java      # Implements the rules and flow of a Blackjack round
+├── Interactive.java    # Implements an interactive game where players are able to make choices in real-time
+├── Simulation.java     # Runs the Monte Carlo simulation
+├── ArrayList.java      # Custom ArrayList implementation
+├── mygames.txt         # Stores game outcomes
+├── *Tests.java         # JUnit test classes for all components
+```
+
 ---
 
 ## 🧪 How to Run the Simulation
@@ -49,6 +62,13 @@ src/
 
 ```bash
 cd src
+javac *.java
+```
+
+### Step 1A: Compile the code: extension
+
+```bash
+cd extension
 javac *.java
 ```
 
